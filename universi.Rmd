@@ -1,0 +1,45 @@
+---
+title: "Universities/Universidades"
+description: |
+    Mis diplomas de certificación de estudios.
+    
+site: distill::distill_website
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+
+```
+
+**Med school Diploma/ Diploma médico**
+
+![](mediploma.pdf){width=700}
+
+**Especialización Gerencia Financiera / Specialization in Financial Management**
+
+![](gerefi.pdf){width=700}
+
+**TL.  en Administración en Salud / TL. in Health Management**
+
+![](tlsalud.pdf){width=700}
+
+**Maestría en Salud Pública / MPH**
+
+![](mph.pdf){width=700}
+
+**Maestría en Políticas Públicas / Public Policy Master**
+
+![](ppms.pdf){width=700}
+
+**Diploma bachiller / High School Diploma**
+
+![](hsdiploma.pdf){width=700}
+
+**Certificado Bulats C1**
+
+![](bulats.pdf){width=700}
+
+
+
+
+

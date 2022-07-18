@@ -1,0 +1,114 @@
+---
+title: "Humanitarian certificates/Certificados humanitarios"
+description: |
+    He aquí mis certificados enfocados a labores humanitarias.
+    
+site: distill::distill_website
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+
+```
+**Personal Safety and Security Certificate**
+
+![](persona_sfty_scrty.pdf){width=500}
+
+**A practical Guide to Market Analysis**
+
+![](a practical guide to market analysis.pdf){width=500}
+
+**Preventing Corruption in Humanitarian Aid**
+
+![](anticorruption.pdf){width=500}
+
+
+**Monitoring and Evaluation Practices**
+
+![](Monitoring and Evaluation Practices.pdf){width=500}
+
+
+**Root Cause Analysis**
+
+![](Root Cause Analysis.pdf){width=500}
+
+**Support an Inclusive Culture**
+
+![](supportaninclusiveculture.pdf){width=500}
+
+**Root Cause Analysis**
+
+![](Root Cause Analysis.pdf){width=500}
+
+**Grant Seeking Essentials Certificate**
+
+![](GRANTS SEEKING ESSENTIALS.pdf){width=500}
+
+**Humanitarian Cross-Cutting Themes and Future Directions Course**
+
+![](Humanitarian Cross-Cutting Themes and Future Directions Course.pdf){width=500}
+
+**MEAL (Monitoring, Evaluation, Accountability and Learning) in Emergencies**
+
+![](MEAL IN EMERGENCIES.pdf){width=500}
+
+**Financial Management For Humanitarian and Development Professionals**
+
+![](Financial Management For Humanitarian and Development Professionals (FMD Pro).pdf){width=500}
+
+**Gestión de Proyectos**
+
+![](GESTION DE PROYECTOS.pdf){width=500}
+
+**Guardian de la Información**
+
+![](GUARDIAN DE LA INFORMACIÓN.pdf){width=500}
+
+**Leadership Skills**
+
+![](LeadershipSkills.pdf){width=500}
+
+**Online Disaster Response Simulation Course**
+
+![](Case Study- Online Disaster Response Simulation Course.pdf){width=500}
+
+**Get Confidence with Prototyping**
+
+![](GetConfidencewithPrototyping.pdf){width=500}
+
+**Beneficiary Feedback Mechanisms**
+
+![](BNFCRFDB.pdf){width=500}
+
+**Humanitarian Context, Systems and Standards Course**
+
+![](HUMANITARIAN CONTEXT.pdf){width=500}
+
+**Prevención de Abuso y explotación Sexual**
+
+![](PREVENCION ABUSO.pdf){width=500}
+
+**Building Blocks for Humanitarian Practice Course**
+
+![](BUILDING BLOCKS FOR HUMANITARIAN PRACTICE COURSE.pdf){width=500}
+
+**Procurement and Logistics Certificate**
+
+![](procurement and logistics certificate.pdf){width=500}
+
+**Core Humanitarian Certificate**
+
+![](Core Humanitarian Certification.pdf){width=500}
+
+**ICH GOOD CLINICAL PRACTICE E6 (R2)**
+
+![](CERTIFICADO2 copia.pdf){width=500}
+
+
+
+
+
+
+
+
+

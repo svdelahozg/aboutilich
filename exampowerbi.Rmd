@@ -1,0 +1,17 @@
+---
+title: "Ejemplos de powerBi"
+description: |
+  He aquí unos de mis proyectos en powerBi.
+    
+site: distill::distill_website
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+
+```
+
+[Datos distrito de Bogotá, suicidio, Ilich De La Hoz Siegler](https://app.powerbi.com/view?r=eyJrIjoiZDZlODcxNjItYjQzOS00ZjU3LTkzOTMtN2Y2Mzc4OTJiZWJhIiwidCI6ImZhYmQwNDdjLWZmNDgtNDkyYS04YmJiLThmOThiOWZiOWNjYSIsImMiOjR9)
+
+[Visualización de datos de desnutrición en el distrito de Bogotá, Ilich De La Hoz Siegler](https://app.powerbi.com/view?r=eyJrIjoiMDcxNmUyYjAtOGZjMS00MmQ4LTllOTMtYTBkNGRlNTRkN2NiIiwidCI6ImZhYmQwNDdjLWZmNDgtNDkyYS04YmJiLThmOThiOWZiOWNjYSIsImMiOjR9&pageName=ReportSectione17e28350c74c3e0ba03)
+

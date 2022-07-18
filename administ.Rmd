@@ -1,0 +1,77 @@
+---
+title: "Admin certificates/certificados de admin "
+description: |
+    He aquí mis certificados de administración.
+    
+site: distill::distill_website
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+
+```
+**ISO 9001: 2008 Fundamentación de un Sistema de Gestión de la Calidad**
+
+![](fiso.pdf){width=500}
+
+**ISO 9001: 2008 Medición, Análisis y Mejora de un Sistema de Gestión de la Calidad**
+
+![](mames.pdf){width=500}
+
+**ISO 9001: 2008 Documentación de un Sistema de Gestión de la Calidad**
+
+![](docus.pdf){width=500}
+
+**ISO 9001: 2008 Planificación de un Sistema de Gestión de la Calidad**
+
+![](gescali.pdf){width=500}
+
+**Sistema Obligatorio de Garantía de la Calidad**
+
+![](sisga.pdf){width=500}
+
+**Gestión de Proyectos en el nivel Gerencial**
+
+![](gege.pdf){width=500}
+
+**Financial Management Essentials Certificate Program**
+
+![](fima.pdf){width=500}
+
+**Gestión Presupuestal para Entidades Públicas Estatuto Orgánico del Presupuesto**
+
+![](gepre.pdf){width=500}
+
+**Conceptualización en Seguros**
+
+![](coseg.pdf){width=500}
+
+**Calculo UPC**
+
+![](calcu.pdf){width=500}
+
+**Inducción en Economía Solidaria**
+
+![](ecosoli.pdf){width=500}
+
+**SEMINARIO IMPLANTACION DEL SISTEMA DE INDICADORES DE CALIDAD**
+
+![](sica.pdf){width=500}
+
+**Respect in the Workplace**
+
+![](rewo.pdf){width=500}
+
+**Curso Modelo Pedagógico**
+
+![](cumope.pdf){width=500}
+
+
+
+
+
+
+
+
+
+

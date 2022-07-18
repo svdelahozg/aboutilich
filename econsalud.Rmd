@@ -1,0 +1,27 @@
+---
+title: "Economía de la salud"
+description: |
+  He aquí unos de mis proyectos de economía de la salud.
+    
+site: distill::distill_website
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+
+```
+
+**Modelamiento analítico para la toma de Decisiones en Evaluación de Tecnología en Salud**
+
+![](modelosanaliticos.pdf){width=700}
+
+**Tipos de Evaluación Económica en Salud.**
+
+![](evaleconsalud.pdf){width=700}
+
+
+
+
+
+
+
