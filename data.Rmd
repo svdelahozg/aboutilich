@@ -1,0 +1,139 @@
+---
+title: "Data certificates/Certificados manejo de datos "
+description: |
+    He aquí mis certificados de manejo de datos.
+    
+site: distill::distill_website
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+
+```
+
+[Link diplomas en  data de IBM](https://www.credly.com/users/ilich-herbert-de-la-hoz-siegler/badges)
+
+**Microsoft Office Certificates**
+
+[Excel 365 avanzado](https://drive.google.com/file/d/1mzeKU-APye2zO_y2xziimCtdQxfkMX5C/view)
+
+[Word 365 - Avanzado](https://drive.google.com/file/d/1usZ5Vd5mpRYbXPGNUtNuCgc9-6850rZ8/view)
+
+[Power Point 365 Avanzado](https://drive.google.com/file/d/1S7l-jqQ-a8q24xi30xLAGddq1-fMNKr-/view)
+
+**Google**
+
+[Google docs avanzado](https://drive.google.com/file/d/1m1cY_oCU79ewHzIV1IbC9pY9ZVzcokiH/view)
+
+[Google sheets avanzado](https://drive.google.com/file/d/1kVxWLnsStkyHQGx3RyFoDLjoRaFUQN0W/view)
+
+[Google analytics](https://drive.google.com/file/d/1LShRBjaJn1WiA098MQNyPJWMisRJPXFd/view)
+
+[Advanced Google analytics](https://drive.google.com/file/d/12g59TECMGZOx2dyAnAGYRSovAxDzbInM/view)
+
+**Python**
+
+[Machine Learning with Python](https://drive.google.com/file/d/1M4gvP7dMQmMSCWa8vIJINCSwnIw-plTu/view)
+
+[Data Analysis with Python](https://drive.google.com/file/d/16inKXbIoIIKz4Wu7LCjofA0-2FruDult/view)
+
+[Python 3 Tutorial Course](https://drive.google.com/file/d/146AwocwJdyrs_pLDyZWIpoIFTsUH1zk_/view)
+
+[Data Visualization with Python](https://drive.google.com/file/d/11MPaeUIoJgRGbIelfDJGAwPplJM-tCBm/view)
+
+[Python 101 for Data Science](https://drive.google.com/file/d/1fTqTIFK_eTsn2dxa2n7tjgJ4lXL6JQrm/view)
+
+**Machine learning, artificial intelligence**
+
+[Machine Learning with R](https://drive.google.com/file/d/1jYn9vfwfUTb8VW0g63wEJQ8yltFW8TPk/view)
+
+[Machine Learning- Dimensionality Reduction](https://drive.google.com/file/d/1p6zqDH6__EpclL1y-YgNz59ZcznSf1VE/view)
+
+[Machine learning with Apache](https://drive.google.com/file/d/1JwCwBfmmK_mU_TlvgpW8Ino4w8UVrH9r/view)
+
+[Machine Learning with Python](https://drive.google.com/file/d/1M4gvP7dMQmMSCWa8vIJINCSwnIw-plTu/view)
+
+[Artificial intelligence](https://drive.google.com/file/d/1blfZeQ0lEc7JAXGFyYi3Y946uwgfFmd3/view)
+
+[Introducción a internet del todo](https://drive.google.com/file/d/14mNFIiyKaF9e1l2_HJ638yakD45lPhAW/view)
+
+**Data management**
+
+[Responsible Data Management in Emergencies](https://drive.google.com/file/d/1yFh2UhcwyuKL6suqYlFPbqyDgkOYkoMX/view)
+
+[Big Data 101](https://drive.google.com/file/d/1KAyONsRoqKuX8lBCCn8TNPLjmLpvJDTT/view)
+
+[Data Science Hands-On with Open Source Tools](https://drive.google.com/file/d/1NnSJweQ5wkeK2JTJFRIvBSa8nJtumKrv/view)
+
+[Introduction to Data Science](https://drive.google.com/file/d/1XTY-hMHVdlKk3rqYaSHu6fEO_2WSJnGu/view)
+
+[Data Visualization with R](https://drive.google.com/file/d/1vr7nyV4yoc999Vv1mEEz9z0fqoFq7eJe/view)
+
+[Data Science Methodology](https://drive.google.com/file/d/1Tk1baQ1t0ANZs8T9VsT6S6lqVz8GsHfv/view)
+
+[Ethics and Best Practices in Sharing Individual-Level Research Data](https://drive.google.com/file/d/126h6oZhez0vxoTsg4RWH5412ngBjvVxl/view)
+
+[Data Governance, Policies and Data Access Committees](https://drive.google.com/file/d/1sXNszMuPZnqsMfeAkui30Zn-D61SfBsp/view)
+
+[Data Quality](https://drive.google.com/file/d/1N88m2m-p-hVlbWC6m0kV-ueVrO3fBGtX/view)
+
+[Data Safety and Monitoring Boards for Clinical Trials](https://drive.google.com/file/d/18i3qXWj2-wc0Z9aCo8rZvwKPjg-fjEeA/view)
+
+[Introduction to Data Management for Clinical Research Studies](https://drive.google.com/file/d/1lRd8mHK-SX3B_Ne4aEO1Gztt5wP_RW-Z/view)
+
+[Introduction to Data Management](https://drive.google.com/file/d/1A-O4uxaJEb_waJxxpbwBQ2AkIEr8q04i/view)
+
+[Introduction to Data Studio](https://drive.google.com/file/d/1VRkEwYp8cQW8VJsGRZv4cdGaTsTx2rmn/view)
+
+[Essential Elements of Ethics](https://drive.google.com/file/d/1QGQiebsQgzMSpmjS6DyqBQEDcZphjRhq/view)
+
+[Blockchain essentials](https://drive.google.com/file/d/1v8aUETqIs507ipGSz8Ly1KcZ-PE_VhV2/view)
+
+**Otros**
+
+[ICH Good Clinical Practice E6](https://drive.google.com/file/d/1TSQeaMstt4d33ume104BQwqzRHkEwM0o/view)
+
+[Website design](https://drive.google.com/file/d/1pMQ4S6heefw6hPVIk1s4wBByVlxvts96/view)
+
+[iRHIS: Integrated Refugee Health Information System](https://drive.google.com/file/d/1izI-ldBC0oYwRhthiC5oUc8-wP2Amq5y/view)
+
+[Medición, Sena](https://drive.google.com/file/d/1uMbRL6rs5KNSi__Mf5cyOlQAVlG5B1ZZ/view)
+
+[Torno, Sena](https://drive.google.com/file/d/13QHuXp-PV_Gojz4cLNFQin81fNtD-rh0/view)
+
+[Project Management for Development](https://drive.google.com/file/d/1WsnbJ8UhXRHnpgM_XmY5IWHMR9-SkOf3/view)
+
+[Cloud Computing](https://drive.google.com/file/d/1xx5pHTOYQ3tz6_-4fCBHz1NdH8x8U-n8/view)
+
+[Aplicación de herramientas informáticas para la automatización de proyectos Microsoft Project](https://drive.google.com/file/d/1BH2OQsAWQyea48WEyuFRua53v9mZCECc/view)
+
+[Community Manager](https://drive.google.com/file/d/1_FpSFg5mUhJWjY5_lXZIsmoykvEkgdl1/view)
+
+[Teletrabajo](https://drive.google.com/file/d/1rCXolm0079veIiVm5MN4dLDruhYlwZdm/view)
+
+[Marketing Digital](https://drive.google.com/file/d/1PfJu_FmwWjcmaSCzpPZwW_yr6mBzr42d/view)
+
+[Redacción y generación de contenidos](https://drive.google.com/file/d/1LHPTqud2tzvvRI_pVC4PlQtlyVj_Md86/view)
+
+[Curso de Desarrollo de Apps Móviles](https://drive.google.com/file/d/1Av4MbIOnt4Ke3MIG4drkwnuWIwoSpo3b/view)
+
+[Curso de Productividad Personal en la Era Digital](https://drive.google.com/file/d/1spiR2dYepJQa0eSkho7daMXkhiXrj9_U/view)
+
+[SQL Fundamentals Course](https://drive.google.com/file/d/18JgHrA5PZLJwpnO_KRBHbwCApRR9Vthb/view)
+
+[Ruby Tutorial Course](https://drive.google.com/file/d/18a6lHAfIaYVm2xXPm2AISBay-dk817P8/view)
+
+[Statistics 101](https://drive.google.com/file/d/1xXSRU0ApDhyHS2FXxh7IfftRWJh-MV1P/view)
+
+[Mathematical Optimization for Business Problem](https://drive.google.com/file/d/1XE-MrSvHGD8oWGMtarzY0JX6E6Qo1Yaw/view)
+
+[Bitcoin 101](https://drive.google.com/file/d/11B7CQAS4K2o027bJqHRLkBBuoZb8Ask9/view)
+
+[Curso básico de Marketing Digital](https://drive.google.com/file/d/1Qrq6x7I4ie-6y_d2RTdtweBd2r5_7Pkc/view)
+
+[Curso de E-Commerce](https://drive.google.com/file/d/1cXD5fbHTo0lkbgDgOsh-rSYS93teaHOx/view)
+
+[Introduction to Clinical Research](https://drive.google.com/file/d/1cRWPMMWfB7v0tnMv4UMF27uV1bD-dybH/view)
+
+[Implementation Research with a focus on Infectious Diseases of Poverty](https://drive.google.com/file/d/1Koayat-5DDoagrTjvmWp2MP0-BnEqfVT/view)
+
